@@ -1,0 +1,27 @@
+{
+    "license": "",
+    "name": "nyse-listings",
+    "resources": [
+        {
+            "format": "csv",
+            "mediatype": "text/csv",
+            "name": "nyse-listed",
+            "path": "data/nyse-listed.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "description": "",
+                        "name": "ACT Symbol",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "name": "Company Name",
+                        "type": "string"
+                    }
+                ]
+            }
+        }
+    ],
+    "title": "NYSE Listings"
+}
