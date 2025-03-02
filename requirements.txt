@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.2
+requests==2.32.3
+
+
+
+
+
+hmmlearn~=0.3.3
+
+
+
+etfpy~=1.0.20
